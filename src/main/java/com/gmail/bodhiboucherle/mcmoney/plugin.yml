@@ -1,0 +1,4 @@
+name: McMoney
+version: 1.O
+main: com.gmail.bodhiboucherle.mcmoney.McMoney
+depend: [mcMMO, Vault]
